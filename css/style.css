@@ -5,7 +5,7 @@
 body {
   font-family: 'Quicksand', sans-serif;
   margin: 0;
-  background:  #0079BF;
+  background:  #165C7E;
 }
 
 #board {
@@ -22,7 +22,7 @@ h1 {
 }
 
 .create-column {
-    background-color: #0079BF;
+    background-color: #045E42;
     margin: 10px;
     border-radius: 20px;
 }
@@ -39,11 +39,11 @@ button {
 }
 
 .btn-delete {
-  background-color: #FF4249;
+  background-color: #850C01;
 }
 
 .add-card {
-  background-color: #838537;
+  background-color: #EA4201;
 }
 
 
@@ -62,7 +62,7 @@ button {
   width: 33%;
   margin: 0 10px;
   border: solid 1px black;
-  background: #42BAFF;
+  background: #0E3964;
 }
 
 ul {
@@ -71,7 +71,7 @@ ul {
 
 .card {
   display: flex;
-  background-color: #CCC949;
+  background-color: #ECC937;
   margin-bottom: 12px;
   border-radius: 20px;
 }
